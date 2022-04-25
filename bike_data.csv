@@ -1,0 +1,642 @@
+CITY,COUNTRY,NUMBER OF BIKES
+Moscow,RU,1
+Antequera,ES,1
+Igoumenitsa,GR,1
+Lecce,IT,1
+Ioannina,GR,1
+Karditsa,GR,1
+Manerba del Garda,IT,1
+Kavala,GR,1
+Kinouria,GR,1
+Komotini,GR,1
+Patra,GR,1
+Marciana Marina,IT,1
+Aranda de Duero,ES,1
+Rethymno,GR,1
+Samos,GR,1
+Novara,IT,1
+Nicosia,CY,2
+Mani,GR,1
+Irakleio,GR,1
+Thessaloniki,GR,1
+Athens,GR,1
+Padova,IT,1
+São Paulo,BR,2
+Aranjuez,ES,1
+A Coruña,ES,1
+Ferrol - Narón,ES,1
+Curtin University, Perth, WA,AU,1
+Melbourne, AU,AU,1
+Ferrara,IT,1
+Montréal, QC,CA,1
+Parma,IT,1
+Toronto, ON,CA,1
+Hamilton, ON,CA,1
+Ottawa, ON,CA,1
+Badajoz,ES,1
+Ann Arbor, MI,US,1
+Pavia,IT,1
+Perugia,IT,1
+Austin, TX,US,1
+Chattanooga, TN,US,1
+Piacenza,IT,1
+Pinerolo,IT,1
+Portland, OR,US,1
+Reggio Emilia,IT,1
+San Ramon, CA,US,1
+Baeza,ES,1
+Boise, ID,US,1
+Boulder, CO,US,1
+Santa Monica, CA,US,1
+Rimini,IT,1
+Fort Lauderdale, FL,US,1
+Milwaukee, WI,US,1
+Buffalo, NY,US,1
+Washington, DC,US,1
+Charlotte, NC,US,1
+Saluzzo,IT,1
+Benidorm,ES,2
+Cincinnati, OH,US,1
+Savigliano,IT,1
+New York, NY,US,1
+Tampa, FL,US,1
+Terni,IT,1
+Columbus, OH,US,1
+Denver, CO,US,1
+Chicago, IL,US,1
+Tirano,IT,1
+El Paso, TX,US,1
+Blanca,ES,1
+Fort Worth, TX,US,1
+Udine,IT,1
+Fargo, ND,US,1
+Salt Lake City,US,1
+Phoenix, AZ,US,1
+Omaha, NE,US,1
+Houston, TX,US,1
+Boston, MA,US,1
+Ustica,IT,1
+Philadelphia, PA,US,1
+Cieza,ES,1
+Indianapolis, IN,US,1
+Orlando, FL,US,1
+Como,IT,1
+Kansas City, MO,US,1
+Dayton, OH,US,1
+Madison, WI,US,1
+Los Angeles, CA,US,1
+Ketchum / Sun Valley, ID,US,1
+Minneapolis, MN,US,1
+La Spezia,IT,1
+Don Benito - Villanueva,ES,1
+San Antonio, TX,US,1
+University of South Florida, FL,US,1
+Venezia,IT,1
+Long Beach, NY,US,1
+Spartanburg, SC,US,1
+Topeka, KS,US,1
+Torino,IT,1
+University of Virginia, VA,US,1
+Atlanta, GA,US,1
+Recife,BR,1
+El Campello,ES,1
+Rio de Janeiro,BR,1
+Salvador,BR,1
+Porto Alegre,BR,1
+Edinburgh,UK,1
+Melbourne,AU,1
+Valence,FR,1
+Santiago,CL,1
+Oslo,NO,1
+Bergen,NO,1
+Trondheim,NO,1
+Copenhagen,DK,1
+Elche,ES,1
+Rennes,FR,1
+Bordeaux,FR,1
+Lille,FR,1
+Pau,FR,1
+Altea,ES,1
+Gandía,ES,1
+Pisa,IT,1
+Getafe,ES,1
+Murcia,ES,1
+Ponferrada,ES,1
+Guadalajara,ES,2
+Vilagarcía de Arousa,ES,1
+Cagliari,IT,1
+Buenos Aires,AR,1
+Lisbon,PT,1
+Varese,IT,1
+Rouen,FR,1
+Toulouse,FR,1
+Luxembourg,LU,1
+Valencia,ES,1
+Sellero,IT,1
+Jaén,ES,1
+Göteborg,SE,1
+Lund,SE,1
+Ugento,IT,1
+Santander,ES,1
+Amiens,FR,1
+Lillestrøm,NO,1
+Mulhouse,FR,1
+Prata Camportaccio,IT,1
+Lyon,FR,1
+Ljubljana,SI,1
+Lalín,ES,1
+Civitavecchia,IT,1
+Sevilla,ES,1
+Barcellona Pozzo di Gotto,IT,1
+Namur,BE,1
+Nancy,FR,1
+Créteil,FR,1
+Bruxelles,BE,1
+Cassano d'Adda,IT,1
+Cergy,FR,1
+Vilnius,LT,1
+Las Palmas de Gran Canaria,ES,2
+富山市,JP,1
+Казань,RU,1
+Bianzone,IT,1
+Marseille,FR,1
+Nantes,FR,1
+Besançon,FR,1
+Rieti,IT,1
+Dublin,IE,1
+Brisbane,AU,1
+Palma,ES,1
+Montilla,ES,1
+Abu Dhabi,AE,1
+Castellucchio,IT,1
+Nice,FR,1
+Noto,IT,1
+Enna,IT,1
+Pordenone,IT,1
+Calais,FR,2
+Carbonia,IT,1
+Cluj-Napoca,RO,1
+Genova,IT,1
+Novelda,ES,1
+Sorocaba,BR,1
+Cremona,IT,1
+São Lourenço,BR,1
+Trento,IT,1
+Ipaússu,BR,1
+Pergine Valsugana,IT,1
+Barcelona,ES,1
+Antalya,TR,1
+Izmir,TR,1
+Rovereto,IT,1
+Mula,ES,1
+Istanbul,TR,1
+Kocaeli,TR,1
+Wien,AT,1
+Helsinki,FI,1
+Monopoli,IT,1
+Turku,FI,1
+León,ES,1
+Brescia,IT,1
+Tel Aviv-Yaffo, Giv'atayim, Ramat-Gan,IL,1
+Andria,IT,1
+O Barco,ES,1
+Bratislava,SK,2
+Wageningen,NL,1
+Prešov,SK,1
+Kraków,PL,1
+Quartucciu,IT,1
+Mainz,DE,1
+Medellin,CO,1
+Olbia,IT,1
+Vancouver,CA,1
+Savona,IT,1
+Palencia,ES,1
+Clermont-Ferrand,FR,1
+Saint-Étienne,FR,1
+Brindisi,IT,1
+Avignon,FR,1
+Batumi,GE,1
+Tradate,IT,1
+Belo Horizonte,BR,1
+Petrolina,BR,1
+Jesi,IT,1
+Pamplona,ES,1
+Utrecht,NL,1
+Paiporta,ES,1
+Brasília,BR,1
+Goiânia,BR,1
+Treviso,IT,1
+Fortaleza,BR,1
+Aracajú,BR,1
+Belém,BR,1
+Sondrio,IT,1
+Santos,BR,1
+Vercelli,IT,1
+Santa Margherita Ligure - Portofino - Camogli,IT,1
+Pinto,ES,1
+Rosario,AR,1
+Miami Beach, FL,US,1
+San Diego, CA,US,1
+Cernusco sul Naviglio - Pioltello - Carugate,IT,1
+Battle Creek, MI,US,1
+Des Moines, IA,US,1
+Santa Maria Maggiore - Malesco - Villette,IT,1
+Greenville, SC,US,1
+Mezzolombardo,IT,1
+Nashville, TN,US,1
+Priego de Córdoba,ES,1
+Lausanne - Morges - Campus,CH,1
+Evans, GA,US,1
+Scafati,IT,1
+Savannah, GA,US,1
+Livorno,IT,1
+Rapid City, SD,US,1
+Sion,CH,1
+Forlì,IT,1
+Rivarolo Canavese,IT,1
+Monserrato,IT,1
+Puerto Lumbreras,ES,1
+Mezzocorona,IT,1
+San Lazzaro di Savena,IT,1
+San Teodoro,IT,1
+Parco Naturale Molentargius - Saline,IT,1
+Parco Nazionale del Gargano,IT,1
+Gallipoli,IT,1
+Castel Guelfo di Bologna,IT,1
+San Michele All'adige,IT,1
+Fribourg,CH,1
+Modena,IT,1
+Puertollano,ES,1
+Brancaleone,IT,1
+Bulle,CH,1
+Distretto della Riviera-Pays-d'Enhaut,CH,1
+Scandiano,IT,1
+Elmas,IT,1
+TV,ME,1
+Acquaviva delle fonti,IT,1
+Lodi,IT,1
+Acquarica del Capo,IT,1
+Vicolungo,IT,1
+Redondela,ES,1
+Porto Torres,IT,1
+Cisterna di Latina,IT,1
+Casaletto Spartano,IT,1
+Selargius,IT,1
+Yverdon-les-Bains,CH,1
+Monza,IT,1
+Nyon,CH,1
+Morigerati,IT,1
+San Donato Milanese,IT,1
+Monthey - Aigle,CH,1
+Salamanca,ES,1
+Parco Nazionale del Circeo,IT,1
+Cesena,IT,1
+Paradiso,CH,1
+Lecco,IT,1
+Alghero,IT,1
+San Giovanni in Persiceto,IT,1
+Parco naturale Migliarino San Rossore Massaciuccoli,IT,1
+Treviglio,IT,1
+Lavis,IT,1
+Murten,CH,1
+San Javier,ES,1
+Ente Parco Montemarcello Magra,IT,1
+Schio,IT,1
+Imola,IT,1
+Leipzig,DE,1
+Nürnberg,DE,1
+Wiesbaden,DE,1
+Frankfurt,DE,1
+Köln,DE,1
+Karlsruhe,DE,1
+Neusiedler See,AT,1
+San Pedro del Pinatar,ES,1
+Offenbach am Main,DE,1
+Auckland,NZ,1
+Magdeburg,DE,1
+Düsseldorf,DE,1
+St.Pölten,AT,1
+Mödling,AT,1
+Sursee,CH,1
+Tübingen,DE,1
+Luzern,CH,1
+Rīga,LV,1
+Sant Joan d'Alacant,ES,1
+Dortmund,DE,1
+Bochum,DE,1
+Bottrop,DE,1
+Duisburg,DE,1
+Essen,DE,1
+Gelsenkirchen,DE,1
+Hamm,DE,1
+Herne,DE,1
+Mülheim a.d.R.,DE,1
+Oberhausen,DE,1
+Bærum,NO,1
+Segovia,ES,1
+München,DE,1
+Jūrmala,LV,1
+Wachau,AT,1
+Tulln,AT,1
+Triestingtal,AT,1
+Thermenregion,AT,1
+Flensburg,DE,1
+Wrocław,PL,2
+Römerland,AT,1
+Offenburg,DE,1
+Soria,ES,1
+Wr.Neustadt,AT,1
+Potsdam,DE,1
+Gütersloh,DE,1
+Unteres Traisental,AT,1
+Haag,AT,1
+Marchfeld,AT,1
+10vorWien,AT,1
+Usedom,DE,1
+Norderstedt,DE,1
+Augsburg,DE,1
+Talavera de la Reina,ES,1
+Traisen-Gölsental,AT,1
+Lunz am See,AT,1
+Konya,TR,1
+Laa an der Thaya,AT,1
+Südheide,AT,1
+Limassol,CY,1
+Poznań,PL,2
+Christchurch,NZ,1
+Heidelberg,DE,1
+Mannheim,DE,1
+Úbeda,ES,1
+Tullnerfeld West,AT,1
+Innsbruck,AT,1
+Opole,PL,1
+Warszawa,PL,3
+Hollabrunn,AT,1
+WienerWald,AT,1
+Dobrich,BG,1
+Dubai,AE,1
+Zagreb,HR,1
+Bietigheim-Bissingen,DE,1
+Universidad de Granada, Granada,ES,1
+Bath,GB,1
+Glasgow,GB,1
+Belfast,GB,1
+Stirling,GB,1
+Białystok,PL,2
+Konstancin Jeziorna,PL,1
+Šibenik,HR,1
+Seferihisar,TR,1
+Lublin,PL,2
+Schwieberdingen,DE,1
+Siena,IT,1
+Pittsburgh,US,1
+Grodzisk Mazowiecki,PL,1
+Quickborn,DE,1
+Hoboken,US,1
+Weehawken,US,1
+King Abdullah Economic City,SA,1
+Ludwigshafen,DE,1
+Warwick,GB,1
+Waiblingen,DE,1
+Speyer,DE,1
+Noia - Portosin - Porto do Son,ES,1
+Lviv,UA,1
+Würzburg,DE,1
+West Palm Beach Florida,US,1
+Serfaus,AT,1
+Vaihingen an der Enz,DE,1
+Herrenberg,DE,1
+Göppingen,DE,1
+Ludwigsburg,DE,1
+Gospić,HR,1
+Holzgerlingen,DE,1
+Villaquilambre,ES,1
+Filderstadt,DE,1
+Kirchheim am Neckar,DE,1
+Schorndorf,DE,1
+Fellbach,DE,1
+Remseck am Neckar,DE,1
+Malta,MT,1
+Karlovac,HR,1
+Kent State,US,1
+Slavonski Brod,HR,1
+Milton Keynes,GB,1
+Vinaròs,ES,1
+Al Ain,AE,1
+Hergiswil,CH,1
+Makarska,HR,1
+Brinje,HR,1
+Zadar,HR,1
+Vukovar,HR,1
+Lastovo,HR,1
+Lódź,PL,1
+Świdnik,PL,1
+Bensheim,DE,1
+Maroussi,GR,3
+Ivanic Grad,HR,1
+Stalowa Wola,PL,1
+Katowice,PL,2
+Szczecin,PL,1
+Ordu,TR,1
+Sarajevo,BA,1
+Exeter,GB,1
+Michałowice,PL,1
+Auckland Waterfront,NZ,1
+Berlin,DE,2
+Stavanger,NO,1
+Slough,GB,1
+Legnica,PL,1
+Aruba,AW,1
+Hyderabad,IN,1
+Tallinn,EE,1
+Byblos,LB,1
+Bhopal,IN,2
+Rotterdam,IN,1
+Bremen,DE,1
+Worms,DE,1
+Stans,CH,1
+Parco dei Colli di Bergamo,IT,1
+Victoria,CA,1
+Maastricht,NL,1
+Stansstad,CH,1
+Kuwait,KW,1
+Horw,CH,1
+Bürstadt,DE,1
+Gliwice,PL,1
+Groß Enzersdorf,AT,1
+Klagenfurt,AT,1
+Kaiserslautern,DE,1
+Marathon,GR,1
+Radom,PL,2
+Vijayawada,IN,1
+Pszczyna,PL,1
+Zgierz,PL,2
+Tychy,PL,1
+Amstetten,AT,1
+Velika Gorica,HR,1
+Sisak,HR,1
+Salzburg ,AT,1
+Kędzierzyn-Koźle,PL,1
+Mantova,IT,1
+Kołobrzeg,PL,1
+Siedlce,PL,1
+Metković,HR,1
+Jastrebarsko,HR,1
+Drniš,HR,1
+Tuzla,BA,1
+Panama,IN,1
+Poreč,HR,1
+Nitra,SK,1
+Kalisz,PL,1
+Νea Smyrni,GR,1
+Marburg,DE,1
+Budapest,HU,1
+Rüsselsheim am Main,DE,1
+Pruszków,PL,1
+Szamotuły,PL,1
+Dordrecht,NL,1
+Heppenheim,DE,1
+Częstochowa,PL,1
+Ostrów Wielkopolski,PL,1
+Bayonne,US,1
+Μoschato-Tavros,GR,1
+Guttenberg,US,1
+West New York,US,1
+Dundee,GB,1
+Piaseczno,PL,1
+Kassel,DE,1
+Sarnen,CH,1
+Wolfenschiessen,CH,1
+Oberdorf,CH,1
+North Bergen,US,1
+Gießen,DE,1
+Αrxaia Olympia,GR,1
+Weinheim,DE,1
+Łódź,PL,2
+Cardiff,GB,1
+Hockenheim,DE,1
+Schwetzingen,DE,1
+Ennetmoos,CH,1
+Eppelheim,DE,1
+Surrey,GB,1
+Swansea,GB,1
+Küssnacht SZ,CH,1
+Kιato,GR,1
+Erfurt,DE,1
+Banja Luka,BA,1
+Koszalin,PL,1
+Sosnowiec,PL,1
+Zabrze,PL,1
+Liberty State Park,US,1
+Pobiedziska,PL,1
+Lahr,DE,1
+Jastrzębie-Zdrój,PL,1
+Delhi,IN,1
+Assemini,IT,1
+Świętochłowice,PL,1
+Piotrków Trybunalski,PL,1
+Siemianowice Śląskie,PL,1
+Turin,DE,1
+Płock,PL,1
+Kharkiv,UA,1
+Ciechanów,PL,1
+Odessa,UA,1
+Otwock,PL,1
+Tychowo,PL,2
+Rhodes,GR,1
+Zielona Góra,PL,1
+Mönchengladbach,DE,1
+Celje,SI,1
+Bilbao,ES,1
+Laško,SI,1
+Lippstadt,DE,1
+Žilina,SK,1
+Konin,PL,1
+Vinnytsia,UA,1
+Bonn,DE,1
+A Rúa,ES,1
+Florina,GR,1
+Tarnów,PL,1
+Marki,PL,1
+Żyrardów,PL,1
+Chorzów,PL,1
+Koluszki,PL,1
+Łask,PL,1
+Łowicz,PL,1
+Pabianice,PL,1
+Sieradz,PL,1
+Skierniewice,PL,1
+Tortolì,IT,1
+Zduńska Wola,PL,1
+Kutno,PL,1
+Odesa,UA,1
+Älvsjö,DE,1
+Wittenberge,DE,1
+Freiburg,DE,1
+Trieste,IT,1
+Dresden,DE,1
+Murmansk,RU,1
+Nizhniy Novgorod,RU,1
+Limnos,GR,1
+Ivano Frankivsk,UA,1
+Almaty,KZ,1
+Shymkent,KZ,1
+San Francisco Bay Area, CA,US,1
+Vannes,FR,1
+Monaco,MC,1
+Tarbes, Lourdes,FR,1
+Reims,FR,1
+Bourg-en-Bresse,FR,1
+Niort,FR,1
+Gaeta,IT,1
+Marseillan,FR,1
+Val d'Ille-Aubigné,FR,1
+Saint-Nazaire,FR,1
+Laon,FR,1
+La Baule-Escoublac,FR,1
+Troyes,FR,1
+Agen,FR,1
+Communauté d'agglomération Seine-Eure,FR,1
+Soissons,FR,1
+La Chantrerie, Nantes,FR,1
+Borgarello,IT,1
+Paris-Saclay,FR,1
+Esch-sur-alzette,LU,1
+Pizzighettone e Formigara,IT,1
+Cork,IE,1
+Limerick,IE,1
+Bangkok,TH,1
+Galway,IE,1
+Albacete,ES,1
+Bielsko-Biała,PL,1
+Montecatini Terme,IT,1
+Bydgoszcz,PL,1
+London,GB,2
+Aspen, CO,US,1
+Carrara,IT,1
+Reykjavík,IS,1
+Hamburg,DE,2
+Sestri Levante - Lavagna,IT,1
+Arezzo,IT,1
+Alhama de Murcia,ES,1
+Astana,KZ,1
+Paris,FR,1
+Ascoli Piceno,IT,1
+Bergamo,IT,1
+Girona,ES,1
+Alba,IT,1
+Milano,IT,1
+Biella,IT,1
+Chivasso,IT,1
+Zaragoza,ES,1
+Almuñécar,ES,1
+Cd de México,MX,1
+Busto Arsizio,IT,1
+Antwerpen,BE,1
+Cuneo,IT,1
+Malmö,SE,1
+Las Condes,CL,1
+Madrid,ES,1
+Didymoteicho,GR,1
+Frosinone,IT,1
+Glyfada,GR,1
